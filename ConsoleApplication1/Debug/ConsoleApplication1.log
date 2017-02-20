@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+e:\workspace\lecture 1\coin change calculator\consoleapplication1\consoleapplication1.cpp(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  ConsoleApplication1.vcxproj -> E:\Workspace\Lecture 1\coin change calculator\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> E:\Workspace\Lecture 1\coin change calculator\Debug\ConsoleApplication1.pdb (Full PDB)
